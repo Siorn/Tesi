@@ -1,2 +1,2 @@
 # TesiPlayer
-Player musicale per android e pc
+Music player for android and pc
