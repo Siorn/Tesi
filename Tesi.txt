@@ -1,0 +1,18 @@
+############
+#TesiPlayer#
+############
+
+#App
+- player
+-- METATAG
+- cercare brani su TesiSocial o yt soundcloud 
+- Auto Lyrics
+- Auto Copertine
+- (tema tramite xml human-readible)
+- (upnp / dlna)
+
+#Web
+- registrazione account
+-- Classica gestione account (pic, mail, username, bio, ecc..)
+- caricare brani propri
+-- pubblici o privati
