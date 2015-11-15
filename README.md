@@ -1,2 +1,3 @@
-# TesiPlayer
-Music player for android and pc
+# Tesi
+Music Player and Social Network
+  
